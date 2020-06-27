@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+}
+
+.main {
+    width: 200px;
+    height: auto;
+    border: 1px solid;
+    margin: 0 auto;
+    background-color: #505050;
+}
+
+input {
+    width: 182px;
+    height: 20px;
+    margin: 5px;
+    border: 2px solid #636363;
+}
+
+.btn button {
+    margin: 0.5px;
+    width: 23%;
+    background-color: #ff617d;
+    border-radius: 0px;
+    border-color: #ff4b4b;
+}
+
+.btn1 button {
+    margin: 5px 0px 3px 1.5%;
+    width: 30%;
+    background-color: #252525;
+    border-color: #3e3e3e;
+}
+
+.btn2 button {
+    margin: 5px 0px 3px 1.5%;
+    width: 30%;
+    background-color: #252525;
+    border-color: #3e3e3e;
+}
+
+.btn3 button {
+    margin: 5px 0px 5px 1.5%;
+    width: 30%;
+    background-color: #252525;
+    border-color: #3e3e3e;
+}
+
+.btn4 button {
+    margin: 5px 0px 5px 1.5%;
+    width: 30%;
+    background-color: #252525;
+    border-color: #3e3e3e;
+}
+
+.eqaul_to button {
+    width: 96%;
+    margin: 5px 0px 5px 1.5%;
+    background-color: #ff9800;
+    border-color: #ffc268;
+}
